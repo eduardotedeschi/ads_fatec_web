@@ -1,0 +1,161 @@
+﻿/* PROJETO WEB - ESTRUTURA DA MASTER PAGE */
+
+
+/* CABEÇALHO  */
+html {
+    scroll-behavior: smooth;
+}
+
+.cabecalho {
+    height: 81px;
+    width: 100%;
+}
+
+.background-cabecalho {
+    height: 81px;
+    max-width: 1044px;
+    background-color: #ffffff;
+    padding-left: 10px; 
+}
+
+.logomarca {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px;
+    width: 80px;
+}
+
+.barra-titulo {
+    position: absolute;
+    top: 0;
+    left: 81px;
+    right: 0;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1vw;
+    font-family: 'Sitka Subheading';
+    color: #333333;
+    padding-right: 10px;
+}
+
+.barra-menu {
+    position: absolute;
+    left: 81px;
+    right: 0;
+    top: 40px;
+    height: 40px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+    .barra-menu a {
+        font-family: 'Sitka Subheading';
+        color: #333333;
+        font-size: 14px;
+        margin-left: 4px;
+        margin-right: 4px;
+        padding-bottom: 0px;
+        text-decoration: none;
+    }
+
+        .barra-menu a:hover {
+            border-bottom: 3px solid black;
+        }
+
+
+.conteudo {
+    background-color: #ffffff;
+    min-height: 800px;
+    max-width: 1044px;
+    padding: 0 10px 10px 10px;
+}
+
+.rodape {
+    margin-top:20px;
+    text-align: center;
+    height: 150px;
+    background-color: #dbdbdb;
+    position:absolute;
+    width:100%;
+}
+
+center {
+    position: fixed;
+    background-color: transparent;
+    color: transparent;
+    z-index: 0;
+}
+
+center a {
+    text-decoration: none;
+    color: transparent;
+}
+
+.rodape h3{
+    padding-top: 10px;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+.rodape p{
+    margin: 0;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+.fundadores{
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .logomarca{
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .logomarca img{
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .barra-titulo {
+        position: absolute;
+        top: 0;
+        left: 41px;
+        right: 0;
+        height: 40px;
+        text-align: center;
+        padding-top: 10px;
+        font-size: 2.3vw;
+        font-family: 'Sitka Subheading';
+        color: #333333;
+        padding-right: 10px;
+    }
+
+    .barra-menu {
+        position: absolute;
+        left: 41px;
+        right: 0;
+        top: 40px;
+        height: 40px;
+        text-align: right;
+        padding-right: 10px;
+    }
+
+    .rodape {
+        margin-top: 0;
+        text-align: center;
+        height: 150px;
+        background-color: #dbdbdb;
+        position: absolute;
+        width: 100%;
+    }
+
+
+
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\projeto.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|d:\\semestre ii\\eletiva i l ing. de prog. ii - di\u00F3genes\\c#\\projetos\\webapplication\\webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\webapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\webapplication\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\webapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{076ADFF5-4329-492F-A9E7-09D08CA16910}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "WebApplication\\Css\\StyleSheet.css",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Css\\StyleSheet.css",
+              "RelativeToolTip": "WebApplication\\Css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-30T14:06:53.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projeto.css",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "RelativeDocumentMoniker": "WebApplication\\Css\\Projeto.css",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Css\\Projeto.css",
+              "RelativeToolTip": "WebApplication\\Css\\Projeto.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-30T14:03:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Site.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Site.Master.cs",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Site.Master.cs",
+              "RelativeToolTip": "WebApplication\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:47:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Site.Master",
+              "RelativeDocumentMoniker": "WebApplication\\Site.Master",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Site.Master",
+              "RelativeToolTip": "WebApplication\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T14:46:42.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Login.aspx.cs",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication\\Login.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:21:57.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication\\Login.aspx",
+              "ToolTip": "D:\\Semestre II\\Eletiva I L ing. de Prog. II - Di\u00F3genes\\C#\\Projetos\\WebApplication\\WebApplication\\Login.aspx",
+              "RelativeToolTip": "WebApplication\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T13:15:14.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

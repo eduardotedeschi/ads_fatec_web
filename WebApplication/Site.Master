@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ADS Eletiva II</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Css/Projeto.css" rel="stylesheet" />
+    <link href="Css/StyleSheet.css" rel="stylesheet" />
+    
+
+
+    <!-- para exibir slide -->
+    <link href="Javascript/flexslider.css" rel="stylesheet" />
+    <script src="Javascript/jquery-1.7.2.min.js"></script>
+    <script src="Javascript/flexslider.min.js"></script>
+</head>
+
+
+
+
+<body>
+    <form id="form1" runat="server">
+
+        <!-- CABEÇALHO -->
+        <div class="cabecalho">
+            <div class="background-cabecalho content-wrap">
+                <!-- logomarca -->
+                <div class="logomarca">
+                    <img src="../Images/marca1.png" />
+                </div>
+                <!-- barra título -->
+                <div class="barra-titulo">
+                    <h1>Análise e Desenvolvimento de Sistemas</h1>
+                </div>
+                <!-- barra menu -->
+                <div class="barra-menu">
+                    <a href="../PesquisaCEP.aspx">Pesquisar CEP</a>
+                    <a href="../Admin/ExibirUsuarios.aspx">Exibir Usuarios</a>
+                    <a href="../Admin/CadastroUsuario.aspx">Cadastro</a>
+                    <a href="../FaleConosco.aspx">Fale Conosco</a>
+                    <a href="../Sobre.aspx">Sobre</a>
+                    <a href="../Default.aspx">HOME</a>
+                    <asp:LinkButton ID="Logout" OnClick="Logout_Click" runat="server">SAIR</asp:LinkButton>
+                </div>
+            </div>
+        </div>
+        <!-- CONTEÚDO -->
+        <div class="conteudo content-wrap">
+            <asp:ContentPlaceHolder ID="Conteudo" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- RODAPÉ -->
+        <div class="rodape">
+            <div>
+                <h3>ADS - Análise e Desenvolvimento de Sistemas</h3>
+                <p class="fundadores">Fundadores</p>
+                <p>
+                    Eduardo Roberto de Castro Tedeschi
+                    <br />
+                    Thomas Henrique dos Santos
+                </p>
+            </div>
+        </div>
+
+    </form>
+</body>
+
+</html>

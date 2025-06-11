@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SalvarExcecoes</name>
+    </assembly>
+    <members>
+        <member name="T:SalvarExcecoes.RecuperarExcecao">
+            <summary>
+            Recupera uma exceção
+            </summary>
+        </member>
+        <member name="M:SalvarExcecoes.RecuperarExcecao.Salvar(System.Exception)">
+            <summary>
+            Salva os dados da exceção recuperada
+            </summary>
+            <param name="ex">Representa uma instancia da exceção corrente</param>
+        </member>
+    </members>
+</doc>
